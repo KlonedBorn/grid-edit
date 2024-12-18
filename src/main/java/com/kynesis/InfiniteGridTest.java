@@ -13,7 +13,7 @@ import javafx.animation.KeyFrame;
 import javafx.animation.Timeline;
 import javafx.util.Duration;
 
-public class GridTest extends Application {
+public class InfiniteGridTest extends Application {
 
     private Timeline horizontalTimeline;
     private Timeline verticalTimeline;
